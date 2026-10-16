@@ -1,0 +1,13 @@
+{
+  "name": "az-token-tax",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Token counts for the same text in Azerbaijani and other languages across LLM tokenizers",
+  "dependencies": {
+    "@lenml/tokenizer-deepseek_v3": "^3.7.2",
+    "@lenml/tokenizer-gemma3": "^3.7.2",
+    "@lenml/tokenizer-qwen2_5": "^3.7.2",
+    "gpt-tokenizer": "^4.0.3",
+    "llama3-tokenizer-js": "^1.2.0"
+  }
+}

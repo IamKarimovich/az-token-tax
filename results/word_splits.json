@@ -1,0 +1,26 @@
+{
+ "GPT-4o": {
+  "Azərbaycan": " Azərbaycan",
+  "ləyaqət": " l|ə|ya|q|ət",
+  "bərabərlik": " b|ər|ab|ərl|ik",
+  "dövlət": " dövlət",
+  "məsuliyyət": " məs|ul|iyyət",
+  "proqramlaşdırma": " proqram|laşdır|ma"
+ },
+ "Qwen 2.5": {
+  "Azərbaycan": " Az|ə|rb|ay|can",
+  "ləyaqət": " l|ə|ya|q|ə|t",
+  "bərabərlik": " b|ə|rab|ə|r|lik",
+  "dövlət": " d|ö|vl|ə|t",
+  "məsuliyyət": " m|ə|s|uli|yy|ə|t",
+  "proqramlaşdırma": " pro|q|ram|laş|dır|ma"
+ },
+ "Gemma 3": {
+  "Azərbaycan": " Azərbaycan",
+  "ləyaqət": " l|ə|ya|q|ət",
+  "bərabərlik": " b|ə|rab|ə|rl|ik",
+  "dövlət": " dö|vl|ət",
+  "məsuliyyət": " mə|sul|iyy|ət",
+  "proqramlaşdırma": " pro|q|ram|laş|d|ırma"
+ }
+}
