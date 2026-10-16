@@ -41,3 +41,7 @@ Results are written to `results/`: `summary.csv` and two figures.
 - One corpus and one genre (legal text). News, chat or code-mixed text may give different numbers.
 - The translations are not perfectly parallel; the Turkish UDHR uses older and more compact wording.
 - Token count reflects API cost and context usage, not model quality.
+
+## Result
+   ![Ratio to English](results/fig1_ratio_to_english.png)
+   ![Schwa experiment](results/fig2_schwa_experiment.png)
